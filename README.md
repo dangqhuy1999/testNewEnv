@@ -4,5 +4,5 @@
 
 ## I see  curl_cffi can perform JA3 spoofing and proxy rotation 
 
-## You can follow the [**link**](https://www.capsolver.com/vi/blog/Cloudflare/cloudflare-tls) to know how to against many protection method of Cloudflare.
+## You can follow the [**link**](https://www.capsolver.com/vi/blog/Cloudflare/cloudflare-tls) to know how to against many protection scrape data methods of Cloudflare.
 
